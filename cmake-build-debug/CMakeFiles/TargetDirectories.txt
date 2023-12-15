@@ -1,0 +1,3 @@
+/Users/nico/CLionProjects/bells_block_rewards/cmake-build-debug/CMakeFiles/bells_block_rewards.dir
+/Users/nico/CLionProjects/bells_block_rewards/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nico/CLionProjects/bells_block_rewards/cmake-build-debug/CMakeFiles/rebuild_cache.dir

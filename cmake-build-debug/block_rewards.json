@@ -1,0 +1,44 @@
+{
+    "blocks": [
+        {
+            "block_height": 13382,
+            "reward": 50
+        },
+        {
+            "block_height": 13383,
+            "reward": 50
+        },
+        {
+            "block_height": 13384,
+            "reward": 500
+        },
+        {
+            "block_height": 13385,
+            "reward": 50
+        },
+        {
+            "block_height": 13386,
+            "reward": 50
+        },
+        {
+            "block_height": 13387,
+            "reward": 100
+        },
+        {
+            "block_height": 13388,
+            "reward": 250
+        },
+        {
+            "block_height": 13389,
+            "reward": 250
+        },
+        {
+            "block_height": 13390,
+            "reward": 50
+        },
+        {
+            "block_height": 13391,
+            "reward": 50
+        }
+    ]
+}

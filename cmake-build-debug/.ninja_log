@@ -1,0 +1,12 @@
+# ninja log v5
+2	550	1702639798069632409	CMakeFiles/bells_block_rewards.dir/main.cpp.o	cca07b22e2e30072
+3	862	1702639798381533589	CMakeFiles/bells_block_rewards.dir/JSONWriter.cpp.o	449236fe909d03e7
+0	43	1702641106412083531	build.ninja	8e01a044f85a95af
+2	266	1702641020153067870	bells_block_rewards	af48a2cf88c58582
+3	1147	1702639798665543545	CMakeFiles/bells_block_rewards.dir/PredictSubsidy.cpp.o	9295b336292ea4a4
+2	1074	1702641184187345708	CMakeFiles/bells_block_rewards.dir/PredictSubsidy.cpp.o	9295b336292ea4a4
+1074	1168	1702641184284999847	bells_block_rewards	af48a2cf88c58582
+2	1081	1702641288954456994	CMakeFiles/bells_block_rewards.dir/PredictSubsidy.cpp.o	9295b336292ea4a4
+1081	1169	1702641289048713476	bells_block_rewards	af48a2cf88c58582
+2	1046	1702641344633979748	CMakeFiles/bells_block_rewards.dir/PredictSubsidy.cpp.o	9295b336292ea4a4
+1046	1133	1702641344728360480	bells_block_rewards	af48a2cf88c58582
